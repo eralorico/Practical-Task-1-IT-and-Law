@@ -8,6 +8,8 @@
 
 - [ ] It's for a lawful purpose connected with a function or an activity of the agency.
 - [ ] The collection of the information is necessary for that purpose.
+
+<!-- Kia ora for you mahi, this is looking pretty good. Have a look at "user stories" as a form of actionable item. Cheers -->
  
 ### B. How specific does my purpose for collection need to be?
 
